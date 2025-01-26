@@ -1,0 +1,1347 @@
+{
+    "filename": "strings.xlsx.xlf",
+    "creationTime": 1737865883794,
+    "files": [
+        {
+            "xl\/sharedStrings.xml": [
+                [
+                    "zh",
+                    "",
+                    "zh",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu1"
+                    }
+                ],
+                [
+                    "APIParamsFiller",
+                    "",
+                    "APIParamsFiller",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu2"
+                    }
+                ],
+                [
+                    "Column 1",
+                    "",
+                    "Column 1",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu3"
+                    }
+                ],
+                [
+                    "Column 2",
+                    "",
+                    "Column 2",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu4"
+                    }
+                ],
+                [
+                    "Column3",
+                    "",
+                    "Column3",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu5"
+                    }
+                ],
+                [
+                    "Save",
+                    "",
+                    "Save",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu6"
+                    }
+                ],
+                [
+                    "Cancel",
+                    "",
+                    "Cancel",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu7"
+                    }
+                ],
+                [
+                    "Form",
+                    "",
+                    "Form",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu8"
+                    }
+                ],
+                [
+                    "API Name",
+                    "",
+                    "API Name",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu9"
+                    }
+                ],
+                [
+                    "Options",
+                    "",
+                    "Options",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu10"
+                    }
+                ],
+                [
+                    "Okay",
+                    "",
+                    "Okay",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu11"
+                    }
+                ],
+                [
+                    "Split speech with a fixed span",
+                    "",
+                    "Split speech with a fixed span",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu12"
+                    }
+                ],
+                [
+                    "Use existing lines",
+                    "",
+                    "Use existing lines",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu13"
+                    }
+                ],
+                [
+                    "Please select how to split the wave file:",
+                    "",
+                    "Please select how to split the wave file:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu14"
+                    }
+                ],
+                [
+                    "ErrorReporter",
+                    "",
+                    "ErrorReporter",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu15"
+                    }
+                ],
+                [
+                    "An error occurred:",
+                    "",
+                    "An error occurred:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu16"
+                    }
+                ],
+                [
+                    "Report",
+                    "",
+                    "Report",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu17"
+                    }
+                ],
+                [
+                    "Please select how to export the text:",
+                    "",
+                    "Please select how to export the text:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu18"
+                    }
+                ],
+                [
+                    "Text",
+                    "",
+                    "Text",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu19"
+                    }
+                ],
+                [
+                    "Set Language Pair",
+                    "",
+                    "Set Language Pair",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu20"
+                    }
+                ],
+                [
+                    "Prompt",
+                    "",
+                    "Prompt",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu21"
+                    }
+                ],
+                [
+                    "Index:",
+                    "",
+                    "Index:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu22"
+                    }
+                ],
+                [
+                    "Time:",
+                    "",
+                    "Time:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu23"
+                    }
+                ],
+                [
+                    "1",
+                    "",
+                    "1",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu24"
+                    }
+                ],
+                [
+                    "00:00:00,000",
+                    "",
+                    "00:00:00,000",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu25"
+                    }
+                ],
+                [
+                    "Select Language Pair",
+                    "",
+                    "Select Language Pair",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu26"
+                    }
+                ],
+                [
+                    "Source lang:",
+                    "",
+                    "Source lang:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu27"
+                    }
+                ],
+                [
+                    "Target lang:",
+                    "",
+                    "Target lang:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu28"
+                    }
+                ],
+                [
+                    "The language code uses the ISO-639-1 standard.",
+                    "",
+                    "The language code uses the ISO-639-1 standard.",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu29"
+                    }
+                ],
+                [
+                    "You can manually input the code if the language is not in the list.",
+                    "",
+                    " You can manually input the code if the language is not in the list.",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu29"
+                    }
+                ],
+                [
+                    "Source",
+                    "",
+                    "Source",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu30"
+                    }
+                ],
+                [
+                    "Target",
+                    "",
+                    "Target",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu31"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu32"
+                    }
+                ],
+                [
+                    "Use current time",
+                    "",
+                    "Use current time",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu33"
+                    }
+                ],
+                [
+                    "Silhouette",
+                    "",
+                    "Silhouette",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu34"
+                    }
+                ],
+                [
+                    "_File",
+                    "",
+                    "_File",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu35"
+                    }
+                ],
+                [
+                    "_Open Media File",
+                    "",
+                    "_Open Media File",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu36"
+                    }
+                ],
+                [
+                    "_Save",
+                    "",
+                    "_Save",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu37"
+                    }
+                ],
+                [
+                    "_Import",
+                    "",
+                    "_Import",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu38"
+                    }
+                ],
+                [
+                    "import from _srt",
+                    "",
+                    "import from _srt",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu39"
+                    }
+                ],
+                [
+                    "_Export",
+                    "",
+                    "_Export",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu40"
+                    }
+                ],
+                [
+                    "export to _srt",
+                    "",
+                    "export to _srt",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu41"
+                    }
+                ],
+                [
+                    "_Close",
+                    "",
+                    "_Close",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu42"
+                    }
+                ],
+                [
+                    "_Preferences",
+                    "",
+                    "_Preferences",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu43"
+                    }
+                ],
+                [
+                    "_Exit",
+                    "",
+                    "_Exit",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu44"
+                    }
+                ],
+                [
+                    "_Edit",
+                    "",
+                    "_Edit",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu45"
+                    }
+                ],
+                [
+                    "_Recognize Speech",
+                    "",
+                    "_Recognize Speech",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu46"
+                    }
+                ],
+                [
+                    "_Detect Voice Activity",
+                    "",
+                    "_Detect Voice Activity",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu47"
+                    }
+                ],
+                [
+                    "_Pretranslate",
+                    "",
+                    "_Pretranslate",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu48"
+                    }
+                ],
+                [
+                    "_New Line",
+                    "",
+                    "_New Line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu49"
+                    }
+                ],
+                [
+                    "_Clear Lines",
+                    "",
+                    "_Clear Lines",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu50"
+                    }
+                ],
+                [
+                    "_Search and replace",
+                    "",
+                    "_Search and replace",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu51"
+                    }
+                ],
+                [
+                    "_Undo",
+                    "",
+                    "_Undo",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu52"
+                    }
+                ],
+                [
+                    "R_edo",
+                    "",
+                    "R_edo",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu53"
+                    }
+                ],
+                [
+                    "_Navigation",
+                    "",
+                    "_Navigation",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu54"
+                    }
+                ],
+                [
+                    "_Jump to Line",
+                    "",
+                    "_Jump to Line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu55"
+                    }
+                ],
+                [
+                    "Jump to the Line of the Current _Time",
+                    "",
+                    "Jump to the Line of the Current _Time",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu56"
+                    }
+                ],
+                [
+                    "_Project",
+                    "",
+                    "_Project",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu57"
+                    }
+                ],
+                [
+                    "_Settings",
+                    "",
+                    "_Settings",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu58"
+                    }
+                ],
+                [
+                    "P_layback",
+                    "",
+                    "P_layback",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu59"
+                    }
+                ],
+                [
+                    "Jump _forward",
+                    "",
+                    "Jump _forward",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu60"
+                    }
+                ],
+                [
+                    "Jump _backward",
+                    "",
+                    "Jump _backward",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu61"
+                    }
+                ],
+                [
+                    "Pause\/Resume",
+                    "",
+                    "Pause\/Resume",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu62"
+                    }
+                ],
+                [
+                    "Play the _previous line",
+                    "",
+                    "Play the _previous line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu63"
+                    }
+                ],
+                [
+                    "Play the _next line",
+                    "",
+                    "Play the _next line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu64"
+                    }
+                ],
+                [
+                    "_Help",
+                    "",
+                    "_Help",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu65"
+                    }
+                ],
+                [
+                    "_About",
+                    "",
+                    "_About",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu66"
+                    }
+                ],
+                [
+                    "Select Whisper model path",
+                    "",
+                    "Select Whisper model path",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu67"
+                    }
+                ],
+                [
+                    "Download model",
+                    "",
+                    "Download model",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu68"
+                    }
+                ],
+                [
+                    "Path:",
+                    "",
+                    "Path:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu69"
+                    }
+                ],
+                [
+                    "The first enabled machine translation is the default one.",
+                    "",
+                    "The first enabled machine translation is the default one.",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu70"
+                    }
+                ],
+                [
+                    "The enabled machine translation will be shown in the candidate list.",
+                    "",
+                    " The enabled machine translation will be shown in the candidate list.",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu70"
+                    }
+                ],
+                [
+                    "Play control",
+                    "",
+                    "Play control",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu71"
+                    }
+                ],
+                [
+                    "Rate:",
+                    "",
+                    "Rate:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu72"
+                    }
+                ],
+                [
+                    "Pretranslate",
+                    "",
+                    "Pretranslate",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu73"
+                    }
+                ],
+                [
+                    "Exact Match",
+                    "",
+                    "Exact Match",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu74"
+                    }
+                ],
+                [
+                    "Translation Memory",
+                    "",
+                    "Translation Memory",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu75"
+                    }
+                ],
+                [
+                    "Machine Translation",
+                    "",
+                    "Machine Translation",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu76"
+                    }
+                ],
+                [
+                    "Interval (ms):",
+                    "",
+                    "Interval (ms):",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu77"
+                    }
+                ],
+                [
+                    "Processing...",
+                    "",
+                    "Processing...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu78"
+                    }
+                ],
+                [
+                    "Project Settings",
+                    "",
+                    "Project Settings",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu79"
+                    }
+                ],
+                [
+                    "Apply",
+                    "",
+                    "Apply",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu80"
+                    }
+                ],
+                [
+                    "Search and replace",
+                    "",
+                    "Search and replace",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu81"
+                    }
+                ],
+                [
+                    "Find:",
+                    "",
+                    "Find:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu82"
+                    }
+                ],
+                [
+                    "Replace:",
+                    "",
+                    "Replace:",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu83"
+                    }
+                ],
+                [
+                    "Find",
+                    "",
+                    "Find",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu84"
+                    }
+                ],
+                [
+                    "View this line",
+                    "",
+                    "View this line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu85"
+                    }
+                ],
+                [
+                    "Search source",
+                    "",
+                    "Search source",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu86"
+                    }
+                ],
+                [
+                    "Regular expression",
+                    "",
+                    "Regular expression",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu87"
+                    }
+                ],
+                [
+                    "Replace selected",
+                    "",
+                    "Replace selected",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu88"
+                    }
+                ],
+                [
+                    "Replace all",
+                    "",
+                    "Replace all",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu89"
+                    }
+                ],
+                [
+                    "Similarity",
+                    "",
+                    "Similarity",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu90"
+                    }
+                ],
+                [
+                    "Note",
+                    "",
+                    "Note",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu91"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu92"
+                    }
+                ],
+                [
+                    "Stop",
+                    "",
+                    "Stop",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu93"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu94"
+                    }
+                ],
+                [
+                    "Play",
+                    "",
+                    "Play",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu95"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu96"
+                    }
+                ],
+                [
+                    "00:00",
+                    "",
+                    "00:00",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu97"
+                    }
+                ],
+                [
+                    "S",
+                    "",
+                    "S",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu98"
+                    }
+                ],
+                [
+                    "E",
+                    "",
+                    "E",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu99"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu100"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu101"
+                    }
+                ],
+                [
+                    "Follow Progress",
+                    "",
+                    "Follow Progress",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu102"
+                    }
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu103"
+                    }
+                ],
+                [
+                    "00:00:00",
+                    "",
+                    "00:00:00",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu104"
+                    }
+                ],
+                [
+                    "Enable WaveForm",
+                    "",
+                    "Enable WaveForm",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu105"
+                    }
+                ],
+                [
+                    "Keep Ratio",
+                    "",
+                    "Keep Ratio",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu106"
+                    }
+                ],
+                [
+                    "Source only",
+                    "",
+                    "Source only",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu107"
+                    }
+                ],
+                [
+                    "Target only",
+                    "",
+                    "Target only",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu108"
+                    }
+                ],
+                [
+                    "Source + target",
+                    "",
+                    "Source + target",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu109"
+                    }
+                ],
+                [
+                    "Please set the language pair",
+                    "",
+                    "Please set the language pair",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu110"
+                    }
+                ],
+                [
+                    "Speech Recognition",
+                    "",
+                    "Speech Recognition",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu111"
+                    }
+                ],
+                [
+                    "General",
+                    "",
+                    "General",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu112"
+                    }
+                ],
+                [
+                    "Expression not correct",
+                    "",
+                    "Expression not correct",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu113"
+                    }
+                ],
+                [
+                    "- Source:",
+                    "",
+                    "- Source: ",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu114"
+                    }
+                ],
+                [
+                    "- Target:",
+                    "",
+                    "- Target: ",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu115"
+                    }
+                ],
+                [
+                    "- Replace:",
+                    "",
+                    "- Replace: ",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu116"
+                    }
+                ],
+                [
+                    "Target:",
+                    "",
+                    "Target: ",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu117"
+                    }
+                ],
+                [
+                    "{1} item(s) replaced",
+                    "",
+                    "{1} item(s) replaced",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu118"
+                    }
+                ],
+                [
+                    "Translation",
+                    "",
+                    "Translation",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu119"
+                    }
+                ],
+                [
+                    "Play this line",
+                    "",
+                    "Play this line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu120"
+                    }
+                ],
+                [
+                    "Delete this line",
+                    "",
+                    "Delete this line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu121"
+                    }
+                ],
+                [
+                    "Prepend a line",
+                    "",
+                    "Prepend a line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu122"
+                    }
+                ],
+                [
+                    "Append a line",
+                    "",
+                    "Append a line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu123"
+                    }
+                ],
+                [
+                    "Merge with the Next line",
+                    "",
+                    "Merge with the Next line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu124"
+                    }
+                ],
+                [
+                    "Recognize this line",
+                    "",
+                    "Recognize this line",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu125"
+                    }
+                ],
+                [
+                    "Please install VLC first.",
+                    "",
+                    "Please install VLC first.",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu126"
+                    }
+                ],
+                [
+                    "Done",
+                    "",
+                    "Done",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu127"
+                    }
+                ],
+                [
+                    "Converting to audio...",
+                    "",
+                    "Converting to audio...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu128"
+                    }
+                ],
+                [
+                    "Splitting audio...",
+                    "",
+                    "Splitting audio...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu129"
+                    }
+                ],
+                [
+                    "No models found",
+                    "",
+                    "No models found",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu130"
+                    }
+                ],
+                [
+                    "Go to perferences",
+                    "",
+                    "Go to perferences",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu131"
+                    }
+                ],
+                [
+                    "Close",
+                    "",
+                    "Close",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu132"
+                    }
+                ],
+                [
+                    "Recognizing audio...",
+                    "",
+                    "Recognizing audio...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu133"
+                    }
+                ],
+                [
+                    "translating...",
+                    "",
+                    "translating...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu134"
+                    }
+                ],
+                [
+                    "Not supported now",
+                    "",
+                    "Not supported now",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu135"
+                    }
+                ],
+                [
+                    "Not seekable",
+                    "",
+                    "Not seekable",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu136"
+                    }
+                ],
+                [
+                    "Play the selection",
+                    "",
+                    "Play the selection",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu137"
+                    }
+                ],
+                [
+                    "Play the selection from here",
+                    "",
+                    "Play the selection from here",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu138"
+                    }
+                ],
+                [
+                    "Play from here",
+                    "",
+                    "Play from here",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu139"
+                    }
+                ],
+                [
+                    "Split here",
+                    "",
+                    "Split here",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu140"
+                    }
+                ],
+                [
+                    "Set stop point",
+                    "",
+                    "Set stop point",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu141"
+                    }
+                ],
+                [
+                    "Clear stop point",
+                    "",
+                    "Clear stop point",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu142"
+                    }
+                ],
+                [
+                    "Create a new line here",
+                    "",
+                    "Create a new line here",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu143"
+                    }
+                ],
+                [
+                    "Recognizing...",
+                    "",
+                    "Recognizing...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu144"
+                    }
+                ],
+                [
+                    "Detecting...",
+                    "",
+                    "Detecting...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "id": "P147242AB-tu145"
+                    }
+                ]
+            ]
+        },
+        {
+            "docProps\/core.xml": [
+                [
+                    "Apache POI",
+                    "",
+                    "Apache POI",
+                    "docProps\/core.xml",
+                    {
+                        "id": "tu1"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
