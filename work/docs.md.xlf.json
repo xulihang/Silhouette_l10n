@@ -1,0 +1,373 @@
+{
+    "filename": "docs.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md": [
+                [
+                    "Installation",
+                    "安装",
+                    "Installation",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666753879,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "For Windows, unzip the file and use the <g1>Silhouette.exe<\/g1> to run the program.",
+                    "对于Windows ，解压文件后使用<g1>Silhouette.exe<\/g1>运行程序。",
+                    "For Windows, unzip the file and use the <g1>Silhouette.exe<\/g1> to run the program.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666772731,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "For macOS, drag the application in the dmg file into the <g1>Applications<\/g1> folder to install it.",
+                    "对于macOS，将dmg文件中的应用拖动到<g1>Applications<\/g1>文件夹中以进行安装。",
+                    "For macOS, drag the application in the dmg file into the <g1>Applications<\/g1> folder to install it.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666795286,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "If it says the package is damaged, please open terminal and run the following command:",
+                    "如果显示包已损坏，请打开终端运行以下命令：",
+                    " If it says the package is damaged, please open terminal and run the following command:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666808896,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "sudo xattr -rd com.apple.quarantine \/Applications\/Silhouette.app",
+                    "sudo xattr -rd com.apple.quarantine \/Applications\/Silhouette.app",
+                    "sudo xattr -rd com.apple.quarantine \/Applications\/Silhouette.app\r\n",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666811689,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "For Linux, you can use the files in the Windows's zip file.",
+                    "对于Linux ，可以使用Windows的zip包中的文件。",
+                    "For Linux, you can use the files in the Windows's zip file.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666827061,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "You need to install FFmpeg, Whisper.cpp and Java with JavaFX to start it.",
+                    "需要安装FFmpeg、Whisper.cpp、Java和JavaFX来运行程序。",
+                    " You need to install FFmpeg, Whisper.cpp and Java with JavaFX to start it.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666856652,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Setup",
+                    "设置",
+                    "Setup",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666862993,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Upon opening the program, you need to enter your order ID and your email to verify the purchase.",
+                    "打开程序时，需要输入订单号和邮箱以验证购买。",
+                    "Upon opening the program, you need to enter your order ID and your email to verify the purchase.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666879337,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "You can use the 7-day trial or the limited mode instead to try the program first.",
+                    "可以使用7天试用或受限模式先试用程序。",
+                    " You can use the 7-day trial or the limited mode instead to try the program first.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666892473,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "There are other things you need to setup.",
+                    "此外，还需要完成其他设置。",
+                    "There are other things you need to setup.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666908667,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "VLC.",
+                    "VLC",
+                    "VLC.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666903818,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Silhouette uses VLC as the video player.",
+                    "Silhouette使用VLC作为视频播放器。",
+                    " Silhouette uses VLC as the video player.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666910954,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "You need to install it first.",
+                    "需要先安装它。",
+                    " You need to install it first.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666916278,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Remember to download the v3 version.",
+                    "记得下载v3版本。",
+                    " Remember to download the v3 version.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666920458,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "Whisper model.",
+                    "Whisper模型。",
+                    "Whisper model.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666927692,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You need to select a Whisper model for speech recognition.",
+                    "需要为语音识别选择一个Whisper模型。",
+                    " You need to select a Whisper model for speech recognition.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666935081,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "You can find the download link in the program.",
+                    "可以在程序中找到下载链接。",
+                    " You can find the download link in the program.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666940644,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "API keys.",
+                    "API密钥",
+                    "API keys.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666947756,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "If you need to use translation services like ChatGPT, Google or DeepL.",
+                    "如果需要使用ChatGPT、Google或DeepL等翻译服务。",
+                    " If you need to use translation services like ChatGPT, Google or DeepL.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666951935,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "You need to fill in the API keys in Preferences",
+                    "需要在偏好设置中填写API密钥",
+                    " You need to fill in the API keys in Preferences",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666962371,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Getting Started",
+                    "快速开始",
+                    "Getting Started",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666973594,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "A screenshot of Silhouette:",
+                    "Silhouette的屏幕截图：",
+                    "A screenshot of Silhouette:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666975515,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666979347,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "On the top left, there is a video player with various controls.",
+                    "在左上角，有一个带有各种控件的视频播放器。",
+                    "On the top left, there is a video player with various controls.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666989381,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "On the bottom left, there is a table showing the existing lines.",
+                    "在左下角，有一个显示现有字幕行的表格。",
+                    "On the bottom left, there is a table showing the existing lines.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738666999773,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "On the top right, you can view the waveform around the current line and edit its timestamp and text.",
+                    "在右上角，可以查看当前字幕行对应的波形图，并编辑其时间戳和文本。",
+                    "On the top right, you can view the waveform around the current line and edit its timestamp and text.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667026051,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "On the bottom right, you can view the proposed translation by several services.",
+                    "在右下角，可以查看多个翻译服务的结果。",
+                    "On the bottom right, you can view the proposed translation by several services.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667046238,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "Here is a basic process using Silhouette to translate a video\/audio file:",
+                    "以下是使用Silhouette翻译视频\/音频文件的基本过程：",
+                    "Here is a basic process using Silhouette to translate a video\/audio file:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667048565,
+                        "id": "tu19"
+                    }
+                ],
+                [
+                    "Use the file menu in the menu bar to open a media file and configure the language pair.",
+                    "使用菜单栏中的文件菜单打开媒体文件并配置语言对。",
+                    "Use the file menu in the menu bar to open a media file and configure the language pair.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667052478,
+                        "id": "tu20"
+                    }
+                ],
+                [
+                    "Use the edit menu to recognize the speech, detect the voice activity and edit the lines.",
+                    "使用编辑菜单识别语音、检测语音活动并编辑字幕行。",
+                    "Use the edit menu to recognize the speech, detect the voice activity and edit the lines.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667062756,
+                        "id": "tu21"
+                    }
+                ],
+                [
+                    "After the transcription and translation, you can export the result to an SRT file or a tab-delimited txt.",
+                    "转录和翻译后，可以将结果导出到SRT文件或制表符分隔的txt文件。",
+                    "After the transcription and translation, you can export the result to an SRT file or a tab-delimited txt.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667071950,
+                        "id": "tu22"
+                    }
+                ],
+                [
+                    "You can also import from these files.",
+                    "也可以从这些文件导入数据。",
+                    " You can also import from these files.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/silhouette\/docs.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1738667078864,
+                        "id": "tu22"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
