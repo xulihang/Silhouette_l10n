@@ -1,0 +1,263 @@
+{
+    "filename": "2025-02-23-align-text-with-audio.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md": [
+                [
+                    "You've got an audio or a video and the script of the speech.",
+                    "假设我们有一个音视频文件和对应的文本，",
+                    "You've got an audio or a video and the script of the speech.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277145047,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Now, you would like to align the text with the speech.",
+                    "我们想将文本和语音进行对齐。",
+                    " Now, you would like to align the text with the speech.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277163455,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "Instead of manually creating the timelines, we can use a computer-aided approach:",
+                    "我们可以手动创建时间轴，不过更方便的方法是使用计算机辅助我们完成这个任务：",
+                    " Instead of manually creating the timelines, we can use a computer-aided approach:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277200871,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "First, recognize the speech to get the timelines with the recognized words.",
+                    "首先，识别语音以生成时间轴和对应的文本。",
+                    "First, recognize the speech to get the timelines with the recognized words.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277221369,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "Then, align the recognized text with the existing text.",
+                    "然后，对识别的文本和已有的文本进行对齐。",
+                    "Then, align the recognized text with the existing text.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277243072,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "The computer-aided video\/audio translation tool <g1>Silhouette<\/g1> is made for such a purpose.",
+                    "计算机辅助音视频翻译工具<g1>Silhouette<\/g1>就是为此目的而设计的。",
+                    "The computer-aided video\/audio translation tool <g1>Silhouette<\/g1> is made for such a purpose.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277252105,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Recognized result:",
+                    "识别的结果：",
+                    "Recognized result:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277260353,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "<x1\/>recognized-result<x2\/>",
+                    "<x1\/>识别的结果<x2\/>",
+                    "<x1\/>recognized-result<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277267177,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Aligner:",
+                    "对齐器：",
+                    "Aligner:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277270913,
+                        "id": "tu7"
+                    }
+                ],
+                [
+                    "<x1\/>aligner<x2\/>",
+                    "<x1\/>对齐器<x2\/>",
+                    "<x1\/>aligner<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277275843,
+                        "id": "tu8"
+                    }
+                ],
+                [
+                    "Aligned result:",
+                    "对齐的结果：",
+                    "Aligned result:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277279337,
+                        "id": "tu9"
+                    }
+                ],
+                [
+                    "<x1\/>aligned<x2\/>",
+                    "<x1\/>对齐的结果<x2\/>",
+                    "<x1\/>aligned<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277283600,
+                        "id": "tu10"
+                    }
+                ],
+                [
+                    "PS: if the recognized speech is accurate, we do not have to do this.",
+                    "注：如果识别的语音是准确的，我们不必这样做。",
+                    "PS: if the recognized speech is accurate, we do not have to do this.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277291267,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "This is for cases where the audio quality is not good, which leads to bad recognition results.",
+                    "这适用于音频质量不佳，导致识别结果不佳的情况。",
+                    " This is for cases where the audio quality is not good, which leads to bad recognition results.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277295303,
+                        "id": "tu11"
+                    }
+                ],
+                [
+                    "Further Reading",
+                    "延伸阅读",
+                    "Further Reading",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277299041,
+                        "id": "tu12"
+                    }
+                ],
+                [
+                    "Forced alignment is the process of determining, for each fragment of the transcript, the time interval (in the audio file) containing the spoken text of the fragment.",
+                    "强制对齐是计算语音片段和对应的文本的一个过程。",
+                    "Forced alignment is the process of determining, for each fragment of the transcript, the time interval (in the audio file) containing the spoken text of the fragment.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277334992,
+                        "id": "tu13"
+                    }
+                ],
+                [
+                    "A text fragment can have arbitrary granularity:",
+                    "文本片段可以具有任意粒度：",
+                    "A text fragment can have arbitrary granularity:",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277337225,
+                        "id": "tu14"
+                    }
+                ],
+                [
+                    "a paragraph,",
+                    "一个段落，",
+                    "a paragraph,",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277340889,
+                        "id": "tu15"
+                    }
+                ],
+                [
+                    "a sentence,",
+                    "一个句子，",
+                    "a sentence,",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277346507,
+                        "id": "tu16"
+                    }
+                ],
+                [
+                    "a word",
+                    "一个单词",
+                    "a word",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277351742,
+                        "id": "tu17"
+                    }
+                ],
+                [
+                    "Generally, it is an automatic approach.",
+                    "一般来说，这是一种自动的方法。",
+                    "Generally, it is an automatic approach.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277354417,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "But in order to get an accurate result, human intervention is needed.",
+                    "但为了获得准确的结果，需要人工干预。",
+                    " But in order to get an accurate result, human intervention is needed.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277356745,
+                        "id": "tu18"
+                    }
+                ],
+                [
+                    "This is what Silhouette is used for.",
+                    "这时Silhouette便可以派上用场。",
+                    " This is what Silhouette is used for.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-align-text-with-audio.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740277380693,
+                        "id": "tu18"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
