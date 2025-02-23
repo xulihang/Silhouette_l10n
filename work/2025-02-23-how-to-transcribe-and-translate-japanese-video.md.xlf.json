@@ -1,0 +1,99 @@
+{
+    "filename": "2025-02-23-how-to-transcribe-and-translate-japanese-video.md.xlf",
+    "files": [
+        {
+            "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md": [
+                [
+                    "We may need to transcribe and translate some Japanese videos.",
+                    "有时我们可能需要转录和翻译一些日语视频。",
+                    "We may need to transcribe and translate some Japanese videos.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285592103,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "The desktop tool <g1>Silhouette<\/g1> has made it easy to be done.",
+                    "桌面软件<g1>Silhouette<\/g1>让这个操作变得很简单。",
+                    " The desktop tool <g1>Silhouette<\/g1> has made it easy to be done.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285623536,
+                        "id": "tu1"
+                    }
+                ],
+                [
+                    "<x1\/>screenshot<x2\/>",
+                    "<x1\/>屏幕截图<x2\/>",
+                    "<x1\/>screenshot<x2\/>",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "note": "",
+                        "creator": "xulihang",
+                        "createdTime": 1738666979347,
+                        "id": "tu2"
+                    }
+                ],
+                [
+                    "The processing can be done entirely offline on your own computer.",
+                    "处理可以完全在自己的计算机上离线完成。",
+                    "The processing can be done entirely offline on your own computer.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285638478,
+                        "id": "tu3"
+                    }
+                ],
+                [
+                    "Recognize the speech using an ASR model like Whisper.",
+                    "使用ASR模型（如Whisper ）识别语音。",
+                    "Recognize the speech using an ASR model like Whisper.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285644223,
+                        "id": "tu4"
+                    }
+                ],
+                [
+                    "Adjust the recognition result in the program with the help of the waveform and various controls.",
+                    "借助波形和各种控件在程序中调整识别结果。",
+                    "Adjust the recognition result in the program with the help of the waveform and various controls.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285660524,
+                        "id": "tu5"
+                    }
+                ],
+                [
+                    "Translate all the lines with an LLM model like ChatGPT or DeepSeek.",
+                    "使用ChatGPT或DeepSeek等大语言人工智能模型翻译所有行。",
+                    "Translate all the lines with an LLM model like ChatGPT or DeepSeek.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285670267,
+                        "id": "tu6"
+                    }
+                ],
+                [
+                    "Based on my test, the processing only takes 20 minutes translating a 180 minutes Japanese video on a M4 Mac Mini device.",
+                    "根据我的测试，在M4 Mac Mini设备上翻译180分钟的日语视频只需20分钟。",
+                    "Based on my test, the processing only takes 20 minutes translating a 180 minutes Japanese video on a M4 Mac Mini device.",
+                    "\/C:\/Users\/HP\/Documents\/GitHub\/BasicCAT-website\/_posts\/2025-02-23-how-to-transcribe-and-translate-japanese-video.md",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1740285673455,
+                        "id": "tu7"
+                    }
+                ]
+            ]
+        }
+    ],
+    "seg_enabled": false
+}
