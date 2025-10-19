@@ -1,6 +1,6 @@
 {
     "filename": "strings.xlsx.xlf",
-    "creationTime": 1760855395919,
+    "creationTime": 1760865576733,
     "files": [
         {
             "xl\/sharedStrings.xml": [
@@ -2821,6 +2821,17 @@
                     }
                 ],
                 [
+                    "Loading VLC...",
+                    "正在加载VLC……",
+                    "Loading VLC...",
+                    "xl\/sharedStrings.xml",
+                    {
+                        "creator": "xulihang",
+                        "createdTime": 1760865591104,
+                        "id": "P147242AB-tu257"
+                    }
+                ],
+                [
                     "Detected using system lower than Win10.",
                     "检测到使用低于Win10的系统。",
                     "Detected using system lower than Win10.",
@@ -2828,7 +2839,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1760855412942,
-                        "id": "P147242AB-tu257"
+                        "id": "P147242AB-tu258"
                     }
                 ],
                 [
@@ -2839,7 +2850,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1760855421935,
-                        "id": "P147242AB-tu257"
+                        "id": "P147242AB-tu258"
                     }
                 ],
                 [
@@ -2850,7 +2861,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877071406,
-                        "id": "P147242AB-tu258"
+                        "id": "P147242AB-tu259"
                     }
                 ],
                 [
@@ -2861,7 +2872,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1740225033701,
-                        "id": "P147242AB-tu259"
+                        "id": "P147242AB-tu260"
                     }
                 ],
                 [
@@ -2872,7 +2883,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1740225039768,
-                        "id": "P147242AB-tu259"
+                        "id": "P147242AB-tu260"
                     }
                 ],
                 [
@@ -2883,7 +2894,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951792206,
-                        "id": "P147242AB-tu260"
+                        "id": "P147242AB-tu261"
                     }
                 ],
                 [
@@ -2894,7 +2905,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1740225047254,
-                        "id": "P147242AB-tu261"
+                        "id": "P147242AB-tu262"
                     }
                 ],
                 [
@@ -2905,7 +2916,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951872360,
-                        "id": "P147242AB-tu262"
+                        "id": "P147242AB-tu263"
                     }
                 ],
                 [
@@ -2916,7 +2927,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1738637002759,
-                        "id": "P147242AB-tu263"
+                        "id": "P147242AB-tu264"
                     }
                 ],
                 [
@@ -2927,7 +2938,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1738636534122,
-                        "id": "P147242AB-tu264"
+                        "id": "P147242AB-tu265"
                     }
                 ],
                 [
@@ -2938,7 +2949,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1738636537385,
-                        "id": "P147242AB-tu265"
+                        "id": "P147242AB-tu266"
                     }
                 ],
                 [
@@ -2949,7 +2960,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1738636539928,
-                        "id": "P147242AB-tu266"
+                        "id": "P147242AB-tu267"
                     }
                 ],
                 [
@@ -2960,7 +2971,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951866367,
-                        "id": "P147242AB-tu267"
+                        "id": "P147242AB-tu268"
                     }
                 ],
                 [
@@ -2971,7 +2982,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743749384893,
-                        "id": "P147242AB-tu268"
+                        "id": "P147242AB-tu269"
                     }
                 ],
                 [
@@ -2982,7 +2993,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743749390878,
-                        "id": "P147242AB-tu269"
+                        "id": "P147242AB-tu270"
                     }
                 ],
                 [
@@ -2993,7 +3004,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1747466561725,
-                        "id": "P147242AB-tu270"
+                        "id": "P147242AB-tu271"
                     }
                 ],
                 [
@@ -3004,7 +3015,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1751785781789,
-                        "id": "P147242AB-tu271"
+                        "id": "P147242AB-tu272"
                     }
                 ],
                 [
@@ -3015,7 +3026,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1746964668665,
-                        "id": "P147242AB-tu272"
+                        "id": "P147242AB-tu273"
                     }
                 ],
                 [
@@ -3026,7 +3037,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1746964675197,
-                        "id": "P147242AB-tu273"
+                        "id": "P147242AB-tu274"
                     }
                 ],
                 [
@@ -3037,7 +3048,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1740225052013,
-                        "id": "P147242AB-tu274"
+                        "id": "P147242AB-tu275"
                     }
                 ],
                 [
@@ -3048,7 +3059,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866792508,
-                        "id": "P147242AB-tu275"
+                        "id": "P147242AB-tu276"
                     }
                 ],
                 [
@@ -3059,7 +3070,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866796884,
-                        "id": "P147242AB-tu276"
+                        "id": "P147242AB-tu277"
                     }
                 ],
                 [
@@ -3071,7 +3082,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1737951861863,
-                        "id": "P147242AB-tu277"
+                        "id": "P147242AB-tu278"
                     }
                 ],
                 [
@@ -3082,7 +3093,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866801230,
-                        "id": "P147242AB-tu278"
+                        "id": "P147242AB-tu279"
                     }
                 ],
                 [
@@ -3093,7 +3104,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866809853,
-                        "id": "P147242AB-tu279"
+                        "id": "P147242AB-tu280"
                     }
                 ],
                 [
@@ -3104,7 +3115,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866813030,
-                        "id": "P147242AB-tu280"
+                        "id": "P147242AB-tu281"
                     }
                 ],
                 [
@@ -3115,7 +3126,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866822816,
-                        "id": "P147242AB-tu281"
+                        "id": "P147242AB-tu282"
                     }
                 ],
                 [
@@ -3126,7 +3137,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866826967,
-                        "id": "P147242AB-tu282"
+                        "id": "P147242AB-tu283"
                     }
                 ],
                 [
@@ -3137,7 +3148,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1740815118333,
-                        "id": "P147242AB-tu283"
+                        "id": "P147242AB-tu284"
                     }
                 ],
                 [
@@ -3148,7 +3159,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737958867212,
-                        "id": "P147242AB-tu284"
+                        "id": "P147242AB-tu285"
                     }
                 ],
                 [
@@ -3159,7 +3170,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866836680,
-                        "id": "P147242AB-tu285"
+                        "id": "P147242AB-tu286"
                     }
                 ],
                 [
@@ -3170,7 +3181,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866843015,
-                        "id": "P147242AB-tu286"
+                        "id": "P147242AB-tu287"
                     }
                 ],
                 [
@@ -3181,7 +3192,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866847966,
-                        "id": "P147242AB-tu287"
+                        "id": "P147242AB-tu288"
                     }
                 ],
                 [
@@ -3192,7 +3203,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866851455,
-                        "id": "P147242AB-tu288"
+                        "id": "P147242AB-tu289"
                     }
                 ],
                 [
@@ -3204,7 +3215,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1740815126299,
-                        "id": "P147242AB-tu289"
+                        "id": "P147242AB-tu290"
                     }
                 ],
                 [
@@ -3216,7 +3227,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1740815132211,
-                        "id": "P147242AB-tu290"
+                        "id": "P147242AB-tu291"
                     }
                 ],
                 [
@@ -3227,7 +3238,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866856958,
-                        "id": "P147242AB-tu291"
+                        "id": "P147242AB-tu292"
                     }
                 ],
                 [
@@ -3238,7 +3249,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866858711,
-                        "id": "P147242AB-tu292"
+                        "id": "P147242AB-tu293"
                     }
                 ],
                 [
@@ -3249,7 +3260,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866862392,
-                        "id": "P147242AB-tu293"
+                        "id": "P147242AB-tu294"
                     }
                 ],
                 [
@@ -3260,7 +3271,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866865199,
-                        "id": "P147242AB-tu294"
+                        "id": "P147242AB-tu295"
                     }
                 ],
                 [
@@ -3272,7 +3283,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1737951779562,
-                        "id": "P147242AB-tu295"
+                        "id": "P147242AB-tu296"
                     }
                 ],
                 [
@@ -3284,7 +3295,7 @@
                         "note": "",
                         "creator": "xulihang",
                         "createdTime": 1740815138850,
-                        "id": "P147242AB-tu296"
+                        "id": "P147242AB-tu297"
                     }
                 ],
                 [
@@ -3295,7 +3306,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866871832,
-                        "id": "P147242AB-tu297"
+                        "id": "P147242AB-tu298"
                     }
                 ],
                 [
@@ -3306,7 +3317,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951786649,
-                        "id": "P147242AB-tu298"
+                        "id": "P147242AB-tu299"
                     }
                 ],
                 [
@@ -3317,7 +3328,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951790607,
-                        "id": "P147242AB-tu298"
+                        "id": "P147242AB-tu299"
                     }
                 ],
                 [
@@ -3328,7 +3339,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951795592,
-                        "id": "P147242AB-tu299"
+                        "id": "P147242AB-tu300"
                     }
                 ],
                 [
@@ -3339,7 +3350,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1738636542760,
-                        "id": "P147242AB-tu300"
+                        "id": "P147242AB-tu301"
                     }
                 ],
                 [
@@ -3350,7 +3361,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1746167950427,
-                        "id": "P147242AB-tu301"
+                        "id": "P147242AB-tu302"
                     }
                 ],
                 [
@@ -3361,7 +3372,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951768517,
-                        "id": "P147242AB-tu302"
+                        "id": "P147242AB-tu303"
                     }
                 ],
                 [
@@ -3372,7 +3383,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737866875592,
-                        "id": "P147242AB-tu303"
+                        "id": "P147242AB-tu304"
                     }
                 ],
                 [
@@ -3383,7 +3394,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743756398290,
-                        "id": "P147242AB-tu304"
+                        "id": "P147242AB-tu305"
                     }
                 ],
                 [
@@ -3394,7 +3405,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743756400746,
-                        "id": "P147242AB-tu305"
+                        "id": "P147242AB-tu306"
                     }
                 ],
                 [
@@ -3405,7 +3416,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743756411440,
-                        "id": "P147242AB-tu306"
+                        "id": "P147242AB-tu307"
                     }
                 ],
                 [
@@ -3416,7 +3427,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1743756408769,
-                        "id": "P147242AB-tu307"
+                        "id": "P147242AB-tu308"
                     }
                 ],
                 [
@@ -3427,7 +3438,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1747466599145,
-                        "id": "P147242AB-tu308"
+                        "id": "P147242AB-tu309"
                     }
                 ],
                 [
@@ -3438,7 +3449,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1747466601953,
-                        "id": "P147242AB-tu309"
+                        "id": "P147242AB-tu310"
                     }
                 ],
                 [
@@ -3449,7 +3460,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951800109,
-                        "id": "P147242AB-tu310"
+                        "id": "P147242AB-tu311"
                     }
                 ],
                 [
@@ -3460,7 +3471,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951801621,
-                        "id": "P147242AB-tu311"
+                        "id": "P147242AB-tu312"
                     }
                 ],
                 [
@@ -3471,7 +3482,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951809004,
-                        "id": "P147242AB-tu312"
+                        "id": "P147242AB-tu313"
                     }
                 ],
                 [
@@ -3482,7 +3493,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951811863,
-                        "id": "P147242AB-tu313"
+                        "id": "P147242AB-tu314"
                     }
                 ],
                 [
@@ -3493,7 +3504,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951816239,
-                        "id": "P147242AB-tu314"
+                        "id": "P147242AB-tu315"
                     }
                 ],
                 [
@@ -3504,7 +3515,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951823174,
-                        "id": "P147242AB-tu315"
+                        "id": "P147242AB-tu316"
                     }
                 ],
                 [
@@ -3515,7 +3526,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951831711,
-                        "id": "P147242AB-tu316"
+                        "id": "P147242AB-tu317"
                     }
                 ],
                 [
@@ -3526,7 +3537,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951833686,
-                        "id": "P147242AB-tu317"
+                        "id": "P147242AB-tu318"
                     }
                 ],
                 [
@@ -3537,7 +3548,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951837038,
-                        "id": "P147242AB-tu317"
+                        "id": "P147242AB-tu318"
                     }
                 ],
                 [
@@ -3548,7 +3559,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951839821,
-                        "id": "P147242AB-tu318"
+                        "id": "P147242AB-tu319"
                     }
                 ],
                 [
@@ -3559,7 +3570,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951841565,
-                        "id": "P147242AB-tu319"
+                        "id": "P147242AB-tu320"
                     }
                 ],
                 [
@@ -3570,7 +3581,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951843559,
-                        "id": "P147242AB-tu320"
+                        "id": "P147242AB-tu321"
                     }
                 ],
                 [
@@ -3581,7 +3592,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737951854903,
-                        "id": "P147242AB-tu320"
+                        "id": "P147242AB-tu321"
                     }
                 ],
                 [
@@ -3592,7 +3603,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877176457,
-                        "id": "P147242AB-tu321"
+                        "id": "P147242AB-tu322"
                     }
                 ],
                 [
@@ -3603,7 +3614,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877181727,
-                        "id": "P147242AB-tu322"
+                        "id": "P147242AB-tu323"
                     }
                 ],
                 [
@@ -3614,7 +3625,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877184256,
-                        "id": "P147242AB-tu323"
+                        "id": "P147242AB-tu324"
                     }
                 ],
                 [
@@ -3625,7 +3636,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877185632,
-                        "id": "P147242AB-tu324"
+                        "id": "P147242AB-tu325"
                     }
                 ],
                 [
@@ -3636,7 +3647,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877187048,
-                        "id": "P147242AB-tu325"
+                        "id": "P147242AB-tu326"
                     }
                 ],
                 [
@@ -3647,7 +3658,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877188472,
-                        "id": "P147242AB-tu326"
+                        "id": "P147242AB-tu327"
                     }
                 ],
                 [
@@ -3658,7 +3669,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877190400,
-                        "id": "P147242AB-tu327"
+                        "id": "P147242AB-tu328"
                     }
                 ],
                 [
@@ -3669,7 +3680,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877194308,
-                        "id": "P147242AB-tu328"
+                        "id": "P147242AB-tu329"
                     }
                 ],
                 [
@@ -3680,7 +3691,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877198200,
-                        "id": "P147242AB-tu329"
+                        "id": "P147242AB-tu330"
                     }
                 ],
                 [
@@ -3691,7 +3702,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877200214,
-                        "id": "P147242AB-tu330"
+                        "id": "P147242AB-tu331"
                     }
                 ],
                 [
@@ -3702,7 +3713,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877201632,
-                        "id": "P147242AB-tu331"
+                        "id": "P147242AB-tu332"
                     }
                 ],
                 [
@@ -3713,7 +3724,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877203184,
-                        "id": "P147242AB-tu332"
+                        "id": "P147242AB-tu333"
                     }
                 ],
                 [
@@ -3724,7 +3735,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877206490,
-                        "id": "P147242AB-tu333"
+                        "id": "P147242AB-tu334"
                     }
                 ],
                 [
@@ -3735,7 +3746,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877207585,
-                        "id": "P147242AB-tu334"
+                        "id": "P147242AB-tu335"
                     }
                 ],
                 [
@@ -3746,7 +3757,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877210493,
-                        "id": "P147242AB-tu335"
+                        "id": "P147242AB-tu336"
                     }
                 ],
                 [
@@ -3757,7 +3768,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877213071,
-                        "id": "P147242AB-tu336"
+                        "id": "P147242AB-tu337"
                     }
                 ],
                 [
@@ -3768,7 +3779,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877214697,
-                        "id": "P147242AB-tu337"
+                        "id": "P147242AB-tu338"
                     }
                 ],
                 [
@@ -3779,7 +3790,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877236114,
-                        "id": "P147242AB-tu338"
+                        "id": "P147242AB-tu339"
                     }
                 ],
                 [
@@ -3790,7 +3801,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877222744,
-                        "id": "P147242AB-tu339"
+                        "id": "P147242AB-tu340"
                     }
                 ],
                 [
@@ -3801,7 +3812,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877229558,
-                        "id": "P147242AB-tu340"
+                        "id": "P147242AB-tu341"
                     }
                 ],
                 [
@@ -3812,7 +3823,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877238818,
-                        "id": "P147242AB-tu341"
+                        "id": "P147242AB-tu342"
                     }
                 ],
                 [
@@ -3823,7 +3834,7 @@
                     {
                         "creator": "xulihang",
                         "createdTime": 1737877243649,
-                        "id": "P147242AB-tu342"
+                        "id": "P147242AB-tu343"
                     }
                 ]
             ]
